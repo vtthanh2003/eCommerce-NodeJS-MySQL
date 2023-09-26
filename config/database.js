@@ -1,10 +1,10 @@
 // database module
 var mysql = require('mysql');
 var config = {
-    host: 'localhost',
-    user: 'thanh',
-    password: 'thanh123',
-    database: 'aStore'
+    host: 'sql.freedb.tech',
+    user: 'freedb_thanh',
+    password: 'Gh#Gg2a9RJnZ#26',
+    database: 'freedb_astore'
 };
 
 // init database
